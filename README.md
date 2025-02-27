@@ -22,7 +22,7 @@ Rust
 
 # safetensors
 
-## Safetensors
+## Safetensors1
 
 This repository implements a new simple format for storing tensors
 safely (as opposed to pickle) and that is still fast (zero-copy).
